@@ -48,7 +48,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<properties>
-	    <sakai.kernel.version>11.3</sakai.kernel.version>
+	    <sakai.kernel.version>11.4</sakai.kernel.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>4.2.7.RELEASE</spring.version>
         <spring.security.version>4.2.3.RELEASE</spring.security.version>
@@ -90,7 +90,6 @@
     <module>pack</module>
 	<module>controller</module>
 	<module>tool</module>
-	<module>web</module>
   </modules>
   
 </project>
