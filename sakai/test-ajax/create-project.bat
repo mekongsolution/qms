@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.sakaiproject.maven-archetype -DarchetypeArtifactId=sakai-spring-tiles-maven-archetype -DarchetypeVersion=1.5 -DgroupId=mekongsolution.sakai.test -DartifactId=loadajax -Dpackage=mekongsolution.sakai.test.loadajax
